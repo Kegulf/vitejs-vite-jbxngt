@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/entrypoint1.ts"],"sourcesContent":["import { MyCommonClass } from './someCommonCode';\r\nexport const intsance1 = new MyCommonClass();\r\n"],"names":["intsance1","MyCommonClass"],"mappings":";AACa,MAAAA,IAAY,IAAIC,EAAc;"}
